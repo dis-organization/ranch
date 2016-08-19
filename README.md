@@ -1,6 +1,8 @@
 # ranch
 R and NetCDF help - share your experiences here
 
+Got a question? [Create a new issue](https://github.com/mdsumner/ranch/issues/new)
+
 # Packages for NetCDF in R
 
 
