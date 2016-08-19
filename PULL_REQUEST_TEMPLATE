@@ -1,0 +1,24 @@
+Please include as much detail as you can. Use this space to describe the problem. 
+
+
+## Details
+
+* what code have you tried? 
+
+```R
+## insert R code here
+```
+
+* where is the file from, can you share it? 
+
+* what R package/s are you using for NetCDF? Don't know? See the next item
+
+
+* enter `sessionInfo()` and post it in these back ticks to provide details on your R session
+
+```  
+## enter your sessionInfo() print out here
+
+
+```
+
